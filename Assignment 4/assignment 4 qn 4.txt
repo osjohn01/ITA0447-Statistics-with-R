@@ -1,0 +1,17 @@
+Faceting and using the color aesthetic are two ways to visualize data that can help to identify patterns and relationships between variables.
+
+Advantages of faceting:
+
+Allows for easy comparison between subsets: Faceting allows you to easily compare the relationship between variables across subsets of your data. In the example given, the faceted plot allows you to compare the relationship between engine displacement and highway miles per gallon across different classes of vehicles. This is helpful when you want to identify patterns or trends that may be unique to each subset.
+
+Faceting preserves the data's resolution: When using color to differentiate between subsets, the resolution of the data may be lost because colors can be difficult to distinguish. Faceting preserves the data's resolution because each subset is plotted separately and given its own axis.
+
+Disadvantages of faceting:
+
+Can result in a large number of plots: When working with a larger dataset, faceting can result in a large number of plots. This can make it difficult to see the overall trend or pattern in the data.
+
+Can be more difficult to customize: Each facet in a faceted plot is its own plot, so customizing individual facets can be more time-consuming and difficult.
+
+The balance between using faceting and color aesthetic can change depending on the size of the dataset. For small datasets, faceting may be more advantageous because it allows for easy comparison between subsets without sacrificing the data's resolution. However, for larger datasets, using color may be more advantageous because it can be used to differentiate between subsets without resulting in a large number of plots.
+
+In general, the choice between faceting and using color aesthetic depends on the specific research question and the characteristics of the dataset being analyzed.

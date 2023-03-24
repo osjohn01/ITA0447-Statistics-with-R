@@ -1,0 +1,10 @@
+The "mpg" dataset usually refers to the fuel efficiency measurements for a set of cars. The variables in this dataset are:
+
+mpg: continuous variable, which represents the miles per gallon of the car.
+cylinders: categorical variable, which represents the number of cylinders in the car's engine (e.g., 4, 6, or 8).
+displacement: continuous variable, which represents the engine's displacement in cubic inches.
+horsepower: continuous variable, which represents the engine's horsepower.
+weight: continuous variable, which represents the weight of the car in pounds.
+acceleration: continuous variable, which represents the acceleration of the car from 0 to 60 mph in seconds.
+model year: categorical variable, which represents the year in which the car was made (e.g., 70, 71, 72).
+origin: categorical variable, which represents the car's country of origin (e.g., 1 for the USA, 2 for Europe, 3 for Asia).

@@ -1,0 +1,8 @@
+To draw a line chart, the appropriate geom would be geom_line.
+
+To draw a boxplot, the appropriate geom would be geom_boxplot.
+
+To draw a histogram, the appropriate geom would be geom_histogram.
+
+To draw an area chart, the appropriate geom would be geom_area.
+
