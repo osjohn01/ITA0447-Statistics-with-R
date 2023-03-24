@@ -1,0 +1,8 @@
+vector1 <- c(1, 3, 4, 5)
+vector2 <- c(10, 11, 12, 13, 14, 15)
+print(vector1)
+print(vector2)
+matrix1 <- matrix(vector1, nrow = 3, ncol = 3, byrow = TRUE)
+matrix2 <- matrix(vector2, nrow = 3, ncol = 3, byrow = TRUE)
+array1 <- array(c(matrix1, matrix2), dim = c(3, 3, 2))
+print(array1)
