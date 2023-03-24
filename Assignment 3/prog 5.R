@@ -1,0 +1,6 @@
+stand_devia<- read.csv("C:/Users/saha/Google Drive/2018 - 2019 Odd Sem/Phase 3/R Programming My trials/stand_devia.csv")
+View(stand_devia)
+sd_age = sd(stand_devia$age)
+print(sd_age)
+sd_fat = sd(stand_devia$X.fat)
+print(sd_fat)

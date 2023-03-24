@@ -1,0 +1,8 @@
+a = c("a", "b", "c", "d", "e")
+b = c("d", "e", "f", "g")
+print("Original Dataframes")
+print(a)
+print(b)
+print("Find elements come only once that are common to both given dataframes:")
+result = union(a, b)
+print(result)
